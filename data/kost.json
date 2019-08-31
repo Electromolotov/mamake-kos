@@ -1,0 +1,159 @@
+[
+    {
+        "id": 1,
+        "name": "Kost Mpm Express Kelapa Dua Tangerang",
+        "address": "Kelapa Dua",
+        "type": "Campur",
+        "roomsAvaible": 1,
+        "images": [
+            "https://static.mamikos.com/uploads/cache/data/style/2019-07-06/sc4dXR7d-540x720.jpg",
+            "https://static.mamikos.com/uploads/cache/data/style/2019-07-06/bTzGHUKr-540x720.jpg",
+            "https://static.mamikos.com/uploads/cache/data/style/2019-07-06/PijDqogJ-540x720.jpg"
+        ],
+        "coordinate": {
+            "latitude": -6.251209,
+            "longitude": 106.613987
+        },
+        "price": 1500000,
+        "city": "Tangerang Selatan",
+        "dimension": {
+            "width": 3,
+            "length": 12
+        },
+        "features": [
+            "Kasur", "Kamar mandi dalam", "Wifi", "AC"
+        ],
+        "desc": "Kost yg letaknya stategis di gading serpong. Cocok buat keluarga kecil atau patungan dgn temen Data bisa berubah sewaktu-waktu, tanyakan data saat ini.",
+        "updated": "09 August 2019 09:57",
+        "owner": {
+            "name": "Pemilik Kost",
+            "phone": "081286574567"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Kost 89 Tipe B Gading Serpong",
+        "address": "Dormitorio gading serpong",
+        "type": "Campur",
+        "roomsAvaible": 3,
+        "images": [
+            "https://static.mamikos.com/uploads/cache/data/style/2017-12-13/RVMNTmYT-540x720.jpg",
+            "https://static.mamikos.com/uploads/cache/data/style/2017-12-13/rfozGBiB-540x720.jpg",
+            "https://static.mamikos.com/uploads/cache/data/style/2017-12-13/n8BHkthQ-540x720.jpg",
+            "https://static.mamikos.com/uploads/cache/data/style/2017-12-13/cH2k5SCR-540x720.jpg"
+        ],
+        "coordinate": {
+            "latitude": -6.263119,
+            "longitude": 106.621599
+        },
+        "price": 1300000,
+        "city": "Serpong",
+        "dimension": {
+            "width": 3,
+            "length": 3
+        },
+        "features": [
+            "Kasur", "Kamar mandi dalam", "Akses kunci"
+        ],
+        "desc": "Belakang dormitorio gading serpong",
+        "updated": "19 Agustus 12:45",
+        "owner": {
+            "name": "Pemilik Kost",
+            "phone": "081199645876"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Kost Giant Kelapa Dua Tangerang",
+        "address": "Kelapa Dua",
+        "type": "Campur",
+        "roomsAvaible": 2,
+        "images": [
+            "https://static.mamikos.com/uploads/cache/data/style/2018-01-23/Oscs2JOh-540x720.jpg",
+            "https://static.mamikos.com/uploads/cache/data/style/2018-01-23/ZOkLrHec-540x720.jpg",
+            "https://static.mamikos.com/uploads/cache/data/style/2018-01-23/UPAuh0bl-540x720.jpg",
+            "https://static.mamikos.com/uploads/cache/data/style/2018-01-23/j4BPolcc-540x720.jpg"
+        ],
+        "coordinate": {
+            "latitude": -6.256153,
+            "longitude": 106.622655
+        },
+        "price": 1700000,
+        "city": "Tangerang",
+        "dimension": {
+            "width": 3,
+            "length": 3
+        },
+        "features": [
+            "Kasur", "Kamar mandi dalam", "AC", "TV"
+        ],
+        "desc": "Kost dengan pengaman dan kenyaman yang sangat baik dan tersystem dgn baik",
+        "updated": "9 August 2019 09:57",
+        "owner": {
+            "name": "Pemilik Kost",
+            "phone": "087880078990"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Kost Theresthomes Tangerang",
+        "address": "Lengkong",
+        "type": "Putra",
+        "roomsAvaible": 3,
+        "images": [
+            "https://static.mamikos.com/uploads/cache/data/style/2018-02-26/w5Ko6UWk-540x720.jpg",
+            "https://static.mamikos.com/uploads/cache/data/style/2017-12-29/HgVWCkWw-540x720.jpg"
+        ],
+        "coordinate": {
+            "latitude": -6.252424,
+            "longitude": 106.614406
+        },
+        "price": 1800000,
+        "city": "Tangerang",
+        "dimension": {
+            "width": 3,
+            "length": 3
+        },
+        "features": [
+            "Kasur", "Kamar mandi luar", "Akses Kunci", "Wifi"
+        ],
+        "desc": "Khusus Putra / Pria / Mahasiswa / Pelajar / Karyawan dan ada yang tinggal di dalam namanya Ibu Nani Natalia",
+        "updated": "19 August 2019 13:22",
+        "owner": {
+            "name": "Christina Kawijaya",
+            "phone": "081317724532"
+        }
+    },
+    {
+        "id": 5,
+        "name": "Kost Gading Perkutut Kelapa Dua Tangerang",
+        "address": "Kelapa Dua",
+        "type": "Campur",
+        "roomsAvaible": 5,
+        "images": [
+            "https://static.mamikos.com/uploads/cache/data/style/2018-02-21/4lvEHipk-540x720.jpg",
+            "https://static.mamikos.com/uploads/cache/data/style/2018-02-21/0ELnkhoD-540x720.jpg",
+            "https://static.mamikos.com/uploads/cache/data/style/2018-02-21/vCNS7joa-540x720.jpg",
+            "https://static.mamikos.com/uploads/cache/data/style/2018-02-21/bEjGnvjF-540x720.jpg"
+        ],
+        "coordinate": {
+            "latitude": -6.252105,
+            "longitude": 106.605056
+        },
+        "price": 1100000,
+        "city": "Tangerang",
+        "dimension": {
+            "width": 3,
+            "length": 4
+        },
+        "features": [
+            "Kasur", "AC", "Wifi"
+        ],
+        "desc": "Data bisa berubah sewaktu-waktu, tanyakan data saat ini.",
+        "updated": "23 August 2019 10:46",
+        "owner": {
+            "name": "PT. Livera Sukses Abadi",
+            "phone": "081905549076"
+        }
+    }
+]
